@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Irenecaldi/irenecaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there, I'm Irene Caldi 🌸
+### I'm 23 and I live in Italy
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Product designer.
+- 🌟 About to start a new working experience!
+- 💻 Currently working on my digital portfolio and many other top secret stuff.
+- 🌱 Currently learning Web Design bases. 
+- 🐱 Proud Mother of Cats .
+- 👾 Chess & Lol -ex- pro player.
+- 🏔 mountaineer and archer.
+- 📫 How to reach me: [send me an e-mail](mailto:irenecaldi@gmail.com) - or a pigeon.
